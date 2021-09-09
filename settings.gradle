@@ -1,0 +1,2 @@
+rootProject.name = "JavaKotlinCompatible"
+include ':app'
